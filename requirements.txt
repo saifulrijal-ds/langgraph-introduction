@@ -5,6 +5,7 @@ langsmith
 langchain-community
 langchain-core
 langchain-openai
+langchain-together
 notebook
 tavily-python
 wikipedia
