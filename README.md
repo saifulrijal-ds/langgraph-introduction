@@ -5,3 +5,6 @@ Task to do and done:
     - [x] add `langchain-together`
 - [x] Set up environment variables
 - [x] Learn and hands-on `basic.ipynb`
+- [x] Learn and hands-on `simple-graph.ipynb`
+- [x] Learn and hands-on `chain.ipynb`
+
